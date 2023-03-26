@@ -3,4 +3,4 @@ project(Data_Structures)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Data_Structures main.cpp )
+add_executable(Data_Structures LinkedLists/LinkedList_struct.cpp)
