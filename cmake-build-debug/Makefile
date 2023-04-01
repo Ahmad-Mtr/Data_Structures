@@ -128,29 +128,29 @@ Data_Structures/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/build
 .PHONY : Data_Structures/fast
 
-LinkedLists/LinkedList_struct.obj: LinkedLists/LinkedList_struct.cpp.obj
-.PHONY : LinkedLists/LinkedList_struct.obj
+LinkedList_fromScratch.obj: LinkedList_fromScratch.cpp.obj
+.PHONY : LinkedList_fromScratch.obj
 
 # target to build an object file
-LinkedLists/LinkedList_struct.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj
-.PHONY : LinkedLists/LinkedList_struct.cpp.obj
+LinkedList_fromScratch.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj
+.PHONY : LinkedList_fromScratch.cpp.obj
 
-LinkedLists/LinkedList_struct.i: LinkedLists/LinkedList_struct.cpp.i
-.PHONY : LinkedLists/LinkedList_struct.i
+LinkedList_fromScratch.i: LinkedList_fromScratch.cpp.i
+.PHONY : LinkedList_fromScratch.i
 
 # target to preprocess a source file
-LinkedLists/LinkedList_struct.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.i
-.PHONY : LinkedLists/LinkedList_struct.cpp.i
+LinkedList_fromScratch.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.i
+.PHONY : LinkedList_fromScratch.cpp.i
 
-LinkedLists/LinkedList_struct.s: LinkedLists/LinkedList_struct.cpp.s
-.PHONY : LinkedLists/LinkedList_struct.s
+LinkedList_fromScratch.s: LinkedList_fromScratch.cpp.s
+.PHONY : LinkedList_fromScratch.s
 
 # target to generate assembly for a file
-LinkedLists/LinkedList_struct.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.s
-.PHONY : LinkedLists/LinkedList_struct.cpp.s
+LinkedList_fromScratch.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.s
+.PHONY : LinkedList_fromScratch.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Data_Structures
-	@echo ... LinkedLists/LinkedList_struct.obj
-	@echo ... LinkedLists/LinkedList_struct.i
-	@echo ... LinkedLists/LinkedList_struct.s
+	@echo ... LinkedList_fromScratch.obj
+	@echo ... LinkedList_fromScratch.i
+	@echo ... LinkedList_fromScratch.s
 .PHONY : help
 
 

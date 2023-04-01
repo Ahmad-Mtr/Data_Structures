@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj"
-  "CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj.d"
+  "CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj"
+  "CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj.d"
   "Data_Structures.exe"
   "Data_Structures.exe.manifest"
   "Data_Structures.pdb"

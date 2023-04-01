@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/youse/CLionProjects/Data_Structures/LinkedLists/LinkedList_struct.cpp" "CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj" "gcc" "CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj.d"
+  "C:/Users/youse/CLionProjects/Data_Structures/LinkedList_fromScratch.cpp" "CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj" "gcc" "CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj.d"
   )
 
 # Targets to which this target links.

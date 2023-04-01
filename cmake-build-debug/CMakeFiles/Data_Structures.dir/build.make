@@ -68,28 +68,28 @@ include CMakeFiles/Data_Structures.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Data_Structures.dir/flags.make
 
-CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj: CMakeFiles/Data_Structures.dir/flags.make
-CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj: C:/Users/youse/CLionProjects/Data_Structures/LinkedLists/LinkedList_struct.cpp
-CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj: CMakeFiles/Data_Structures.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\youse\CLionProjects\Data_Structures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj -MF CMakeFiles\Data_Structures.dir\LinkedLists\LinkedList_struct.cpp.obj.d -o CMakeFiles\Data_Structures.dir\LinkedLists\LinkedList_struct.cpp.obj -c C:\Users\youse\CLionProjects\Data_Structures\LinkedLists\LinkedList_struct.cpp
+CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj: CMakeFiles/Data_Structures.dir/flags.make
+CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj: C:/Users/youse/CLionProjects/Data_Structures/LinkedList_fromScratch.cpp
+CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj: CMakeFiles/Data_Structures.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\youse\CLionProjects\Data_Structures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj -MF CMakeFiles\Data_Structures.dir\LinkedList_fromScratch.cpp.obj.d -o CMakeFiles\Data_Structures.dir\LinkedList_fromScratch.cpp.obj -c C:\Users\youse\CLionProjects\Data_Structures\LinkedList_fromScratch.cpp
 
-CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\youse\CLionProjects\Data_Structures\LinkedLists\LinkedList_struct.cpp > CMakeFiles\Data_Structures.dir\LinkedLists\LinkedList_struct.cpp.i
+CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\youse\CLionProjects\Data_Structures\LinkedList_fromScratch.cpp > CMakeFiles\Data_Structures.dir\LinkedList_fromScratch.cpp.i
 
-CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\youse\CLionProjects\Data_Structures\LinkedLists\LinkedList_struct.cpp -o CMakeFiles\Data_Structures.dir\LinkedLists\LinkedList_struct.cpp.s
+CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\youse\CLionProjects\Data_Structures\LinkedList_fromScratch.cpp -o CMakeFiles\Data_Structures.dir\LinkedList_fromScratch.cpp.s
 
 # Object files for target Data_Structures
 Data_Structures_OBJECTS = \
-"CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj"
+"CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj"
 
 # External object files for target Data_Structures
 Data_Structures_EXTERNAL_OBJECTS =
 
-Data_Structures.exe: CMakeFiles/Data_Structures.dir/LinkedLists/LinkedList_struct.cpp.obj
+Data_Structures.exe: CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/build.make
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/linklibs.rsp
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/objects1.rsp
