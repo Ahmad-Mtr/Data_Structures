@@ -3,5 +3,5 @@ project(Data_Structures)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Data_Structures LinkedList_fromScratch.cpp)
+add_executable(Data_Structures Queues/Queue_Circular.cpp)
 #LinkedLists/LinkedList_struct.cpp

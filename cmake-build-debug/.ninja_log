@@ -1,4 +1,4 @@
 # ninja log v5
-11	155	7003108441957377	CMakeFiles/Data_Structures.dir/as.cpp.obj	535b807b33e34bce
-2	734	7006677948383672	CMakeFiles/Data_Structures.dir/main.cpp.obj	5a46760ebbb1f0bd
-736	1167	7006677952569204	Data_Structures.exe	daed38160b89bb0e
+739	1899	7023936244498489	Data_Structures.exe	ea010de188242f21
+1	1168	7023920235534331	CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj	9776fd76f9058f78
+3	738	7023936233020403	CMakeFiles/Data_Structures.dir/Queue_Circular.cpp.obj	8341ca3a14b2f77d
