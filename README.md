@@ -5,3 +5,6 @@ you may need to change CMakeLists.txt in order to run the desired file in CLion.
 	1- Linked Lists
 		A- LinkedList_Struct
 		B- LinkedList_Class
+		C- DoublyLinkedList
+	2- Queues
+		A- Queue_Circular
