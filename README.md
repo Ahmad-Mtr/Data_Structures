@@ -8,3 +8,5 @@ you may need to change CMakeLists.txt in order to run the desired file in CLion.
 		C- DoublyLinkedList
 	2- Queues
 		A- Queue_Circular
+	3- Stacks
+		A- Stack_Array
