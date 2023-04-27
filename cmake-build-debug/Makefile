@@ -128,29 +128,29 @@ Data_Structures/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/build
 .PHONY : Data_Structures/fast
 
-LinkedList_fromScratch.obj: LinkedList_fromScratch.cpp.obj
-.PHONY : LinkedList_fromScratch.obj
+Practice_DS/DoublyLinkedList.obj: Practice_DS/DoublyLinkedList.cpp.obj
+.PHONY : Practice_DS/DoublyLinkedList.obj
 
 # target to build an object file
-LinkedList_fromScratch.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.obj
-.PHONY : LinkedList_fromScratch.cpp.obj
+Practice_DS/DoublyLinkedList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Practice_DS/DoublyLinkedList.cpp.obj
+.PHONY : Practice_DS/DoublyLinkedList.cpp.obj
 
-LinkedList_fromScratch.i: LinkedList_fromScratch.cpp.i
-.PHONY : LinkedList_fromScratch.i
+Practice_DS/DoublyLinkedList.i: Practice_DS/DoublyLinkedList.cpp.i
+.PHONY : Practice_DS/DoublyLinkedList.i
 
 # target to preprocess a source file
-LinkedList_fromScratch.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.i
-.PHONY : LinkedList_fromScratch.cpp.i
+Practice_DS/DoublyLinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Practice_DS/DoublyLinkedList.cpp.i
+.PHONY : Practice_DS/DoublyLinkedList.cpp.i
 
-LinkedList_fromScratch.s: LinkedList_fromScratch.cpp.s
-.PHONY : LinkedList_fromScratch.s
+Practice_DS/DoublyLinkedList.s: Practice_DS/DoublyLinkedList.cpp.s
+.PHONY : Practice_DS/DoublyLinkedList.s
 
 # target to generate assembly for a file
-LinkedList_fromScratch.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/LinkedList_fromScratch.cpp.s
-.PHONY : LinkedList_fromScratch.cpp.s
+Practice_DS/DoublyLinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Practice_DS/DoublyLinkedList.cpp.s
+.PHONY : Practice_DS/DoublyLinkedList.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Data_Structures
-	@echo ... LinkedList_fromScratch.obj
-	@echo ... LinkedList_fromScratch.i
-	@echo ... LinkedList_fromScratch.s
+	@echo ... Practice_DS/DoublyLinkedList.obj
+	@echo ... Practice_DS/DoublyLinkedList.i
+	@echo ... Practice_DS/DoublyLinkedList.s
 .PHONY : help
 
 

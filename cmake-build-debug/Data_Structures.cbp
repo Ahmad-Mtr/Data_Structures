@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/youse/CLionProjects/Data_Structures/LinkedList_fromScratch.cpp">
+		<Unit filename="C:/Users/youse/CLionProjects/Data_Structures/Practice_DS/DoublyLinkedList.cpp">
 			<Option target="Data_Structures"/>
 		</Unit>
 		<Unit filename="C:/Users/youse/CLionProjects/Data_Structures/CMakeLists.txt">

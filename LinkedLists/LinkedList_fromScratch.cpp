@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 struct Node {
     int data;
     Node *next;
@@ -90,9 +89,9 @@ void duplicate_1st() {
 }
 
 void dupl_1st() {
-    if (head == NULL){
+    if (head == NULL) {
         return;
-    } else{
+    } else {
         add_1st(head->data);
     }
 }
@@ -126,7 +125,7 @@ void duplicate_last() {
         while (temp->next != NULL) {
             temp = temp->next;
         }
-        jadeed->data=temp->data;
+        jadeed->data = temp->data;
         temp->next = jadeed;
     }
 }
@@ -155,7 +154,7 @@ int main() {
     //duplicate_pos(3);
     duplicate_last();
     printList();
-    cout<<endl;
+    cout << endl;
     dupl_1st();
     dupl_pos(3);
     dupl_last();
@@ -164,5 +163,3 @@ int main() {
     return 0;
 
 }
-
-
