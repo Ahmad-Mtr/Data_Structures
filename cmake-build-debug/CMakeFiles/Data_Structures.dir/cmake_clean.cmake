@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj"
-  "CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj.d"
+  "CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj"
+  "CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj.d"
   "Data_Structures.exe"
   "Data_Structures.exe.manifest"
   "Data_Structures.pdb"

@@ -68,28 +68,28 @@ include CMakeFiles/Data_Structures.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Data_Structures.dir/flags.make
 
-CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj: CMakeFiles/Data_Structures.dir/flags.make
-CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj: C:/Users/YOUSEF\ MAHMOUD/CLionProjects/Data_Structures/Heap/BinaryHeap.cpp
-CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj: CMakeFiles/Data_Structures.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj -MF CMakeFiles\Data_Structures.dir\Heap\BinaryHeap.cpp.obj.d -o CMakeFiles\Data_Structures.dir\Heap\BinaryHeap.cpp.obj -c "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\Heap\BinaryHeap.cpp"
+CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj: CMakeFiles/Data_Structures.dir/flags.make
+CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj: C:/Users/YOUSEF\ MAHMOUD/CLionProjects/Data_Structures/_Rev/BST_SpeedRun.cpp
+CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj: CMakeFiles/Data_Structures.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj -MF CMakeFiles\Data_Structures.dir\_Rev\BST_SpeedRun.cpp.obj.d -o CMakeFiles\Data_Structures.dir\_Rev\BST_SpeedRun.cpp.obj -c "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\_Rev\BST_SpeedRun.cpp"
 
-CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\Heap\BinaryHeap.cpp" > CMakeFiles\Data_Structures.dir\Heap\BinaryHeap.cpp.i
+CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\_Rev\BST_SpeedRun.cpp" > CMakeFiles\Data_Structures.dir\_Rev\BST_SpeedRun.cpp.i
 
-CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\Heap\BinaryHeap.cpp" -o CMakeFiles\Data_Structures.dir\Heap\BinaryHeap.cpp.s
+CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\YOUSEF MAHMOUD\CLionProjects\Data_Structures\_Rev\BST_SpeedRun.cpp" -o CMakeFiles\Data_Structures.dir\_Rev\BST_SpeedRun.cpp.s
 
 # Object files for target Data_Structures
 Data_Structures_OBJECTS = \
-"CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj"
+"CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj"
 
 # External object files for target Data_Structures
 Data_Structures_EXTERNAL_OBJECTS =
 
-Data_Structures.exe: CMakeFiles/Data_Structures.dir/Heap/BinaryHeap.cpp.obj
+Data_Structures.exe: CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/build.make
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/linkLibs.rsp
 Data_Structures.exe: CMakeFiles/Data_Structures.dir/objects1
