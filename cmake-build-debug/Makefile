@@ -128,29 +128,29 @@ Data_Structures/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/build
 .PHONY : Data_Structures/fast
 
-_Rev/BST_SpeedRun.obj: _Rev/BST_SpeedRun.cpp.obj
-.PHONY : _Rev/BST_SpeedRun.obj
+Hash/Hash_struct.obj: Hash/Hash_struct.cpp.obj
+.PHONY : Hash/Hash_struct.obj
 
 # target to build an object file
-_Rev/BST_SpeedRun.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.obj
-.PHONY : _Rev/BST_SpeedRun.cpp.obj
+Hash/Hash_struct.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Hash/Hash_struct.cpp.obj
+.PHONY : Hash/Hash_struct.cpp.obj
 
-_Rev/BST_SpeedRun.i: _Rev/BST_SpeedRun.cpp.i
-.PHONY : _Rev/BST_SpeedRun.i
+Hash/Hash_struct.i: Hash/Hash_struct.cpp.i
+.PHONY : Hash/Hash_struct.i
 
 # target to preprocess a source file
-_Rev/BST_SpeedRun.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.i
-.PHONY : _Rev/BST_SpeedRun.cpp.i
+Hash/Hash_struct.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Hash/Hash_struct.cpp.i
+.PHONY : Hash/Hash_struct.cpp.i
 
-_Rev/BST_SpeedRun.s: _Rev/BST_SpeedRun.cpp.s
-.PHONY : _Rev/BST_SpeedRun.s
+Hash/Hash_struct.s: Hash/Hash_struct.cpp.s
+.PHONY : Hash/Hash_struct.s
 
 # target to generate assembly for a file
-_Rev/BST_SpeedRun.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/_Rev/BST_SpeedRun.cpp.s
-.PHONY : _Rev/BST_SpeedRun.cpp.s
+Hash/Hash_struct.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structures.dir\build.make CMakeFiles/Data_Structures.dir/Hash/Hash_struct.cpp.s
+.PHONY : Hash/Hash_struct.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Data_Structures
-	@echo ... _Rev/BST_SpeedRun.obj
-	@echo ... _Rev/BST_SpeedRun.i
-	@echo ... _Rev/BST_SpeedRun.s
+	@echo ... Hash/Hash_struct.obj
+	@echo ... Hash/Hash_struct.i
+	@echo ... Hash/Hash_struct.s
 .PHONY : help
 
 
